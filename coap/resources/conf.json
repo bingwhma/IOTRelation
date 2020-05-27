@@ -1,0 +1,5 @@
+{
+	"verb": "get",
+	"endpoint": "/houses/*/rooms/*/sensors/temperature",
+	"class": "com.linyi.test.coap.advance.TemperatureResource"
+}
